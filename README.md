@@ -1,6 +1,6 @@
-# RoboSpeaker
+# Your Buddy Speaker
 
-RoboSpeaker is a Python-based GUI application that allows users to input text, translate it into a selected language, and have it spoken aloud using text-to-speech synthesis.
+Your Buddy Speaker is a Python-based GUI application that allows users to input text, translate it into a selected language, and have it spoken aloud using text-to-speech synthesis.
 
 ## Features
 - Translate text into multiple supported languages.
