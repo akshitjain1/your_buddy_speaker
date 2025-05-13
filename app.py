@@ -128,3 +128,5 @@ if __name__ == "__main__":
 # It then translates the input text into the selected language and speaks it using the selected voice.
 # The application also includes error handling for empty input, unsupported languages, and translation errors.
 # The GUI is designed to be user-friendly, with clear labels and buttons for each action.
+# The application uses the Google Translate API for translation and pyttsx3 for text-to-speech synthesis.
+# The supported languages for translation and speech synthesis are defined in the SUPPORTED_LANGUAGES dictionary.
